@@ -12,7 +12,7 @@ This plugin was created for **personal use** to prevent hacking and cheating. It
 
 - Every time an already registered player joins the server the player will be teleported to a already existing *spawn* world where he will have to login.
 
-- After loging in the player will be teleported to a **temporary world** where he will have around 15 seconds to login or register.
+- After loging in the player will be teleported to a **temporary world** where he will have to login or register.
 
-- After a succesful login the player will be teleported back to world *world* (this part is **hardcoded**). 
+- After a succesful login the player will be teleported back to world named *world* (this part is **hardcoded**). 
 
