@@ -1,0 +1,17 @@
+name: SuperLogin
+main: main.MainPlugin
+version: 1.0
+api-version: 1.16
+
+commands:
+  register:
+    description: Register command.
+    usage: /register
+    aliases: reg
+  login:
+    description: Login command.
+    usage: /login
+    aliases: log
+  rpass:
+    descrpition: Reset players password.
+    usage: /rpass
